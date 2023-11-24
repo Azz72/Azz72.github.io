@@ -8,3 +8,31 @@
 div{list-style-type: none;
 	color: red;
 	font-size: 20px;}
+
+body {
+  backgrounf-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+div {
+  background-color: lightgreen;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+img {
+  text-align: center; 
+  outline-style: dotted;
+  outline-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red); 
+  outline-width: 12px;
+}
+#Home {
+  color: red;
+}
+li {
+  color: Tomato;
+}
