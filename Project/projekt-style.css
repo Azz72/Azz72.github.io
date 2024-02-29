@@ -112,9 +112,21 @@ main > section{
     margin-bottom: 8px;
 }
 
-
+#welcome{
+  color:yellow;
+}
 
 .hover-image {
     width: 30%;
+}
 
+footer > *{
+  margin-right: 30px;
+  color:white;
+  text-decoration-line: none;
+}
+
+footer > *:hover{
+  color: yellow;
+  text-decoration-line: none;
 }
